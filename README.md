@@ -1,2 +1,5 @@
 # ExpansionPanel-MaterialDesign
-Componentes gráficos básicos de Material Design con un listado de paneles expandibles. //  Basic graphic components of Material Design with a list of expandable panels.
+Componentes gráficos básicos de Material Design con un listado de paneles expandibles.
+<br>
+![](../master/my_imgs/captura.PNG)
+![](../master/my_imgs/captura1.PNG)
