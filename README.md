@@ -1,6 +1,8 @@
 # ExpansionPanel-MaterialDesign
 Componentes gráficos básicos de Material Design con un listado de paneles expandibles.
 <br>
-<img src="../master/my_imgs/captura.png" widht="100" height="150">
-<img src="../master/my_imgs/captura1.png" widht="100" height="150">
+<p align="center">
+<img src="../master/my_imgs/captura.png" widht="100" height="250">
+<img src="../master/my_imgs/captura1.png" widht="100" height="250">
+</p>
 
